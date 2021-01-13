@@ -11,6 +11,6 @@ group :documentation do
 end
 
 group :release do
-  gem 'redcarpet', '~> 3.0'
+  gem 'redcarpet', '~> 3.5', '>= 3.5.1'
   gem 'samus'
 end
